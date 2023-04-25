@@ -20,8 +20,6 @@ By using the Parser package, developers can gain a better understanding of the d
 
 ![Test](https://github.com/actionhero/node-resque/workflows/Test/badge.svg)
 
----
-
 ## Usage
 Learn how to use the Parser package with an example.
 ```go
@@ -62,12 +60,9 @@ Package can easily be imported by running the following commond;
 > go get github.com/hardikshah197/user-agent-parser
 ```
 
----
-
 ## Coverage
 It has already covered all the case of User Agent String that the [google developer documentation](https://developer.chrome.com/docs/multidevice/user-agent/#chrome-for-ios) has provided till now.
 
-___
 
 ## Implementation
 This is a `Go` programming language code that provides a parser function which takes a user agent string as input and returns a map of details about the user agent. 
@@ -79,8 +74,6 @@ Once the relevant information is extracted, it is stored in a map and returned a
 The details that can be extracted include the OS version, model version, build version, and details about the version of Safari or Chrome for iOS. 
 
 Overall, the code provides a useful utility function for parsing and extracting information from user agent strings.
-
-___
 
 ## Authors
 
